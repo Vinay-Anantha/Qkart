@@ -1,9 +1,9 @@
 # Qkart
 
-An Ecommerce application built using React JS
+An ECommerce application built using React JS
 https://qkarts-frontend.netlify.app/
 
-<ul>The learnings included:<br>
+<ul>The learnings included:</br>
 
 <li> Using state and props to deal with the data</li>
 
