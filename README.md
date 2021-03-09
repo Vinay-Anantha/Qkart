@@ -1,26 +1,29 @@
-# Qkart
-The learnings included:
+# Qkart : An Ecommerce application built using React JS
 
-Using state and props to deal with the data
+<ul>The learnings included:
 
-Routing users to different views
+<li> Using state and props to deal with the data</li>
 
-Using REST APIs to communicate with the backend
+<li> Routing users to different views</li>
 
-Local storage to identify users when revisiting
+<li> Using REST APIs to communicate with the backend</li>
 
-Utilising component lifecycle methods effectively
+<li> Local storage to identify users when revisiting</li>
 
-Using 3rd party library for easily prototyping the UI elements
+<li> Utilising component lifecycle methods effectively</li>
 
-Making the website responsive
+<li> Using 3rd party library for easily prototyping the UI elements</li>
 
-Conditionally rendering UI elements
+<li> Making the website responsive</li>
 
-React Refs as an additional way (than props) to interact with child component
+<li> Conditionally rendering UI elements</li>
 
-Debouncing to improve search feature
+<li> React Refs as an additional way (than props) to interact with child component</li>
 
-Deployment using Netlify and Heroku
+<li> Debouncing to improve search feature</li>
+
+<li> Deployment using Netlify and Heroku</li>
+
+</ul>
 
 ![image](https://user-images.githubusercontent.com/29325674/110406680-9eae0d80-80a8-11eb-9ead-9b80bd64da70.png)
