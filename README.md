@@ -1,5 +1,5 @@
 # Qkart
-The learnings included
+The learnings included:
 
 Using state and props to deal with the data
 
